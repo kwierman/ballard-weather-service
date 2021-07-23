@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    ballard_weather_service/__main__.py
+    ballard_weather_service/_version.py
+    versioneer.py
+    tests/*

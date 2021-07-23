@@ -1,0 +1,2 @@
+ballard_weather_service/_version.py export-subst
+* text=auto eol=lf

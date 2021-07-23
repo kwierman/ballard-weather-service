@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - 'ballard_weather_service/_version.py'
+  - 'tests/**/*'
+  - 'tests/*'
+  - 'benchmarks/**/*'
+  - 'setup.py'
+  - 'versioneer.py'
